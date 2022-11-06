@@ -8,5 +8,11 @@ Nesta edição, fomos desafiados a codificarmos uma aplicação de bolão ideali
 
 Como toda maratona, a gente chega no nosso limite. Aqui você vai encontrar o código de 4/5 aulas codificadas. 
 
-![Web](https://github.com/lrochaoliveira/nlw-copa-2022/blob/main/frontend.jpg)
+
+
+## Screen
+
+
+![Web](https://github.com/lrochaoliveira/nlw-copa-2022/blob/main/tela.jpg)
+![Frontend](https://github.com/lrochaoliveira/nlw-copa-2022/blob/main/frontend.jpg)
 ![BackEnd](https://github.com/lrochaoliveira/nlw-copa-2022/blob/main/backend.jpg)
