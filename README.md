@@ -38,3 +38,19 @@ Pode ser usado o Expo Go : ![Install](https://expo.dev/client)
 ![Web](https://github.com/lrochaoliveira/nlw-copa-2022/blob/main/tela.jpg)
 ![Frontend](https://github.com/lrochaoliveira/nlw-copa-2022/blob/main/frontend.jpg)
 ![BackEnd](https://github.com/lrochaoliveira/nlw-copa-2022/blob/main/backend.jpg)
+
+
+## Links Importantes:
+![React Navigation](https://reactnavigation.org/docs/getting-started/
+![React-native-vector-icons](https://oblador.github.io/react-native-vector-icons/
+![Expo Session](https://docs.expo.dev/versions/latest/sdk/auth-session/
+![React-native-svg-transformer](https://github.com/kristerkari/react-native-svg-transformer
+![zod](https://www.npmjs.com/package/zod-prisma#installation
+![Short-unique-id](https://www.npmjs.com/package/short-unique-id/v/3.0.2
+![Expo svg](https://docs.expo.dev/versions/latest/sdk/svg/
+![Expo Icons](https://docs.expo.dev/guides/icons/
+![Phosphor Icons](https://phosphoricons.com/
+![React Navigation](https://reactnavigation.org/
+![Prisma](https://www.prisma.io/
+![Sqlite3](https://www.npmjs.com/package/sqlite3
+![Tailwindcss](https://tailwindcss.com/
