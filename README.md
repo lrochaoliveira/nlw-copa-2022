@@ -31,7 +31,7 @@ Pode ser usado o Expo Go : [Install](https://expo.dev/client)
 
 ![ERD](https://github.com/lrochaoliveira/nlw-copa-2022/blob/main/copa/server/prisma/ERD.svg)
 
-## Screen
+## Screen geradas ao rodar
 
 
 ![Web](https://github.com/lrochaoliveira/nlw-copa-2022/blob/main/tela.jpg)
