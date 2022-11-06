@@ -23,6 +23,11 @@ Após abrir cada projeto no VSCode, rode os seguintes comandos:
 * Mobile: `$ npx expo start`
 
 
+## Emulador Mobile
+
+Pode ser usado o Expo Go : ![Install](https://expo.dev/client)
+
+
 ## Screen
 
 
