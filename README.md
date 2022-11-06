@@ -28,7 +28,7 @@ Após abrir cada projeto no VSCode, rode os seguintes comandos:
 Pode ser usado o Expo Go : ![Install](https://expo.dev/client)
 
 
-## ERD
+## ERD - Diagrama Entidade Relacionamento
 
 ![ERD](https://github.com/lrochaoliveira/nlw-copa-2022/blob/main/copa/server/prisma/ERD.svg)
 
