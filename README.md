@@ -16,30 +16,12 @@ Baixe o projeto, clicando no botão `Code` , conforme imagem abaixo:
 
 Após abrir cada projeto no VSCode, rode os seguintes comandos:
 
-* Server:
+* Server: `$ npm run dev`
 
-`$ npm run dev`
+* Web: `$ npm run dev`
 
-* Web:
+* Mobile: `$ npx expo start`
 
-`$ npm run dev`
-
-* Mobile:
-
-`$ npx expo start`
-
-
-~~~javascript
-Esta é uma linha de código em Javascript.
-~~~
-
-~~~php
-Esta é uma linha de código em PHP.
-~~~
-
-~~~html
-Esta é uma linha de código em HTML.
-~~~
 
 ## Screen
 
