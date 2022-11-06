@@ -1,4 +1,4 @@
-<img src="[drawing.jpg](https://github.com/lrochaoliveira/nlw-copa-2022/blob/main/captura.png](https://github.com/lrochaoliveira/nlw-copa-2022/blob/main/copa/Wallpaper_-_1920x1080.png)" alt="drawing" width="200"/>
+<img src="https://github.com/lrochaoliveira/nlw-copa-2022/blob/main/captura.png](https://github.com/lrochaoliveira/nlw-copa-2022/blob/main/copa/Wallpaper_-_1920x1080.png" alt="drawing" width="200"/>
 
 # NLW º 10 - Copa 2022
 O maior evento online e gratuito de programação na prática com muito código, desafios, networking e um único objetivo: te levar para o próximo nível.
